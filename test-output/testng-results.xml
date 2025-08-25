@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-07-09T14:10:09 IST" name="Default suite" finished-at="2025-07-09T14:11:11 IST" duration-ms="62249">
+    <groups>
+    </groups>
+    <test started-at="2025-07-09T14:10:09 IST" name="Default test" finished-at="2025-07-09T14:11:11 IST" duration-ms="62249">
+      <class name="com.runner.RunnerClass">
+        <test-method is-config="true" signature="extentStart()[pri:0, instance:com.runner.RunnerClass@4a8355dd]" started-at="2025-07-09T14:10:09 IST" name="extentStart" finished-at="2025-07-09T14:10:09 IST" duration-ms="227" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extentStart -->
+        <test-method is-config="true" signature="propertySetup()[pri:0, instance:com.runner.RunnerClass@4a8355dd]" started-at="2025-07-09T14:10:09 IST" name="propertySetup" finished-at="2025-07-09T14:10:15 IST" duration-ms="6346" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- propertySetup -->
+        <test-method signature="login()[pri:0, instance:com.runner.RunnerClass@4a8355dd]" started-at="2025-07-09T14:10:15 IST" name="login" finished-at="2025-07-09T14:10:16 IST" duration-ms="525" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="searchPage()[pri:1, instance:com.runner.RunnerClass@4a8355dd]" started-at="2025-07-09T14:10:16 IST" name="searchPage" finished-at="2025-07-09T14:10:17 IST" duration-ms="662" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchPage -->
+        <test-method signature="hotelSelect()[pri:2, instance:com.runner.RunnerClass@4a8355dd]" started-at="2025-07-09T14:10:18 IST" name="hotelSelect" finished-at="2025-07-09T14:10:18 IST" duration-ms="301" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hotelSelect -->
+        <test-method signature="hotelBooking()[pri:3, instance:com.runner.RunnerClass@4a8355dd]" started-at="2025-07-09T14:10:18 IST" name="hotelBooking" finished-at="2025-07-09T14:10:29 IST" duration-ms="10593" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hotelBooking -->
+        <test-method signature="confirmationPage()[pri:4, instance:com.runner.RunnerClass@4a8355dd]" started-at="2025-07-09T14:10:29 IST" name="confirmationPage" finished-at="2025-07-09T14:10:39 IST" duration-ms="9977" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- confirmationPage -->
+        <test-method signature="itinerary()[pri:5, instance:com.runner.RunnerClass@4a8355dd]" started-at="2025-07-09T14:10:39 IST" name="itinerary" finished-at="2025-07-09T14:11:11 IST" duration-ms="31702" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- itinerary -->
+        <test-method is-config="true" signature="browserTerminat()[pri:0, instance:com.runner.RunnerClass@4a8355dd]" started-at="2025-07-09T14:11:11 IST" name="browserTerminat" finished-at="2025-07-09T14:11:11 IST" duration-ms="326" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserTerminat -->
+        <test-method is-config="true" signature="extendEnd()[pri:0, instance:com.runner.RunnerClass@4a8355dd]" started-at="2025-07-09T14:11:11 IST" name="extendEnd" finished-at="2025-07-09T14:11:12 IST" duration-ms="442" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extendEnd -->
+      </class> <!-- com.runner.RunnerClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
