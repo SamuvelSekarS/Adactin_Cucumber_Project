@@ -69,5 +69,7 @@ public class SearchPage extends Base_Class implements SearchPageInterfaceElement
 	public void clickSearchButton() {
 
 		elementClick(searchBtn);  
+		
+		System.out.println("some changes 2");
 	}
 }

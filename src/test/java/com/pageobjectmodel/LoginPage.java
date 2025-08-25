@@ -35,5 +35,6 @@ public class LoginPage extends Base_Class implements LoginPageInterFaceElements{
 	}
 	public void clickLoginButton() {
 		elementClick(loginBtn);
+		System.out.println("some changes 1");
 	}
 }
